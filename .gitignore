@@ -28,7 +28,7 @@ build/
 /.idea/libraries
 /.idea/*.xml
 /build
-
+/.gradle/*
 
 
 *.iml

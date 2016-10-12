@@ -11,16 +11,20 @@
     tools:context="com.omg.service.android.servicedemo.MainActivity">
 
     <TextView
+        android:id="@+id/info"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
 
     <Button
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="Click Me"
+        android:onClick="onClick"
+        android:clickable="true"
         android:gravity="center"/>
 
 </RelativeLayout>
