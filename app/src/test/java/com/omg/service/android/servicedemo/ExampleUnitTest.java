@@ -1,7 +1,6 @@
 package com.omg.service.android.servicedemo;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**

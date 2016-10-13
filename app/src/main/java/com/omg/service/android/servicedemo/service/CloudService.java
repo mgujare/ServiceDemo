@@ -26,7 +26,6 @@ public class CloudService extends IntentService {
     }
 
     @Override
-
     protected void onHandleIntent(Intent intent) {
 
         String urlPath = null;
